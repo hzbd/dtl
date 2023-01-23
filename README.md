@@ -1,2 +1,2 @@
-# ctl
-Chinese translate list
+# DTL
+Docs translate list
