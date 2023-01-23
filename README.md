@@ -1,0 +1,2 @@
+# ctl
+Chinese translate list
